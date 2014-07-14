@@ -1,6 +1,6 @@
 #EL PROGRESO 
 
-Repository for IMEXPORT project
+Repository for EL PROGRESO project
 
 ##Installation of the plugins
 
